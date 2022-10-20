@@ -1537,7 +1537,7 @@ ol {
 
 @media (max-width: 767px) {
   .header {
-    padding: 18px 0 !important;
+    padding: 18px 15px !important;
   }
   .header .mobile-menu-btn .toggler-icon {
     background-color: #fff;
