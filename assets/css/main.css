@@ -1651,11 +1651,11 @@ ol {
   width: 120px;
 }
 
-.header.sticky .navbar-brand h5, .header.sticky .navbar-brand h6 {
+.navbar-area.sticky .navbar-brand h5, .navbar-area.sticky .navbar-brand h6 {
 color: black;
 }
 
-.header .navbar-brand h5, .header .navbar-brand h6 {
+.navbar-area .navbar-brand h5, .navbar-area .navbar-brand h6 {
 color: white;
 }
 
