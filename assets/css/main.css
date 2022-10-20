@@ -1651,6 +1651,14 @@ ol {
   width: 120px;
 }
 
+.header.sticky .navbar-brand h5, .header.sticky .navbar-brand h6 {
+color: black;
+}
+
+.header .navbar-brand h5, .header .navbar-brand h6 {
+color: white;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header .navbar-brand img {
     width: 120px;
