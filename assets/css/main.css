@@ -1648,7 +1648,8 @@ ol {
 }
 
 .header .navbar-brand img {
-  width: 120px;
+  width: 170px;
+  padding: 10px 0;
 }
 
 .navbar-area.sticky .navbar-brand h5, .navbar-area.sticky .navbar-brand h6 {
